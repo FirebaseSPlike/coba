@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Delicious Recipes</title>
+    <link>https://how-to-cooking-rise.web.app/about/</link>
+    <description>Recent content in About on Delicious Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Oct 2020 16:53:17 +0000</lastBuildDate><atom:link href="https://how-to-cooking-rise.web.app/about/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
